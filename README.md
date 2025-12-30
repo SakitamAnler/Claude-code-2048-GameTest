@@ -15,6 +15,12 @@
 
 ---
 
+## 🖼️ 项目预览
+
+![2048 Midnight Galaxy Edition](./screenshot.png)
+
+---
+
 ## 📖 目录
 
 - [🎯 项目简介](#-项目简介)
